@@ -13,6 +13,7 @@ copyright: false #不是原创 不显示版权说明
 # copyright_info: 此文章版權歸xxxxx所有，如有轉載，請註明來自原作者
 ---
 
+### 找不到页面？
 ```
 \source\_posts\ 目录下至少要有一篇文章，否则hexo g 无法在 public下生成index文件
 ```

@@ -109,3 +109,19 @@ deploy:
   type: 'git'
   repository: wkh@47.102.223.176:/home/git/blog.git   #用户名@服务器Ip:git仓库位置
   branch: master
+
+neat_enable: true
+neat_html:
+  enable: true
+  exclude:
+neat_css:
+  enable: true
+  exclude:
+    - '*.min.css'
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'

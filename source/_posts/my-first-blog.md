@@ -1,6 +1,5 @@
 ---
 title: Cannot GET/ 问题解决
-cover: ./img/hexo_tag.png
 copyright: false
 abbrlink: 2534c439
 date: 2022-05-10 00:00:00
